@@ -23,7 +23,7 @@ const HeroSlider = () => {
       animate={{ opacity: 1 }}
       transition={{ duration: 0.5 }}
     >
-      <div className="container mx-auto relative">
+      <div className="container sm:px-4 mx-auto relative">
         <Swiper
           navigation={true}
           modules={[Navigation, Autoplay]}

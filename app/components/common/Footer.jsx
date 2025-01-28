@@ -31,7 +31,7 @@ const Footer = () => {
   return (
     <>
       <div className="bg-white border-t border-[#efefef]">
-        <div className="container mx-auto">
+        <div className="container mx-auto px-4">
           <motion.div
             variants={containerVariants}
             initial="hidden"

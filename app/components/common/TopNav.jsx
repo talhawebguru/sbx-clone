@@ -29,7 +29,7 @@ const TopNav = () => {
     <>
       <div className='bg-[#f3f3f3]'>
         <motion.div 
-          className='flex md:justify-start justify-center items-center gap-4 py-2 container mx-auto'
+          className='flex md:justify-start justify-center items-center gap-4 py-2 container mx-auto px-4'
           initial="hidden"
           animate="visible"
           variants={containerVariants}

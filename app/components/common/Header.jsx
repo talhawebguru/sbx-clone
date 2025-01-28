@@ -12,7 +12,7 @@ const Header = () => {
     <>
       <TopNav />
       <div className="bg-white shadow-md">
-        <div className="flex justify-between items-center container gap-10 sm:gap-0 mx-auto py-2.5 px-2.5 sm:px-0">
+        <div className="flex justify-between items-center container gap-10 sm:gap-0 mx-auto py-2.5 px-4">
           <div>
             <CiMenuBurger width={28} height={28} className="cursor-pointer" />
           </div>

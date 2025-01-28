@@ -3,7 +3,7 @@ import AucationList from "./AucationList";
 const Aucation = () => {
   return (
     <>
-      <div className="container mx-auto bg-white shadow-lg px-2 sm:px-5 md:px-10 py-10">
+      <div className="container mx-auto px-4 bg-white shadow-lg  sm:px-5 md:px-10 py-10">
         <div className="flex  items-center justify-start">
           <h2 className="w-[90.50px] h-[22px] text-[#101010] text-[16.88px] font-bold font-inter uppercase leading-snug">
             Auction

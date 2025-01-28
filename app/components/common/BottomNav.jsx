@@ -28,7 +28,7 @@ const BottomNav = () => {
   return (
     <>
       <div className='bg-white shadow-md border-t border-[#E0E0E0]'>
-        <div className='container mx-auto py-2'>
+        <div className='container mx-auto py-2 px-4'>
           <motion.div 
             className='flex justify-between items-center py-3.5 md:px-[100px] xl:px-[400px]'
             initial="hidden"
